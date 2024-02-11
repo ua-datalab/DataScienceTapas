@@ -1,23 +1,32 @@
-## University of Arizona DataLab.
-
 
 <p style="text-align:center;">
 <img src="https://github.com/clizarraga-UAD7/DataScienceLab/blob/main/images/UADLSquareLogo.png?raw=true" width=200>
 </p>
 
+# UArizona Data Lab Workshops - Spring 2024
 
-# DataScienceTapas
+## Data Science Tapas
 
-General Data Science Topics
 
 ### Data Science Tapas: Savor the Tools of Data Mastery
 
-"Data Science Tapas" offers essential data science tools for Ph.D. dissertation research. Participants will learn command line, version control, project management, data handling, documentation, and workflow automation. These skills improve data analysis, visualization, and research quality.
+“Data Science Tapas” offers essential tools for a career in data science, including automation, project management, version control, and documentation.
 
-* [Repo](https://github.com/ua-datalab/DataScienceTapas/wiki)
-* Wednesdays at 1PM: Weaver Science and Engineering Library Rm 212
-* Zoom: https://arizona.zoom.us/j/86423223879
-* Qualtrics Registration: https://uarizona.co1.qualtrics.com/jfe/form/SV_0fbG5COlxNj5phI
+In this series, we offer an overview of essential skills and software you will need to get started in a collaborative research space. Our sessions will include command line and shell tools, version control, project management, data handling, documentation, and workflow automation. 
+
+Join us for a hands-on experience each week, where we bring project managers, data science educators, researchers, and PhD students to share best practices and toolkits!
+
+***
+
+**RESOURCES AND NOTES:**
+
+* [REGISTRATION](https://uarizona.co1.qualtrics.com/jfe/form/SV_0fbG5COlxNj5phI)
+* [Data Science Tapas wiki](https://github.com/ua-datalab/DataScienceTapas/wiki)
+* We meet on Wednesdays at 1 PM in Weaver Science and Engineering Library Rm 212.
+* Zoom: [https://arizona.zoom.us/j/86423223879](https://arizona.zoom.us/j/86423223879)
+* There will be no workshop during Spring Break week.
+* Content schedule and content are subject to change.
+
  
 | Date |  Topic | 
 | :--: | :--: | 
@@ -39,7 +48,7 @@ General Data Science Topics
 
 ***
 
-Updated: 01/19/2024 (C. Lizárraga)
+Updated: 02/11/2024 (C. Lizárraga)
 
 [UArizona Data Lab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona.
 
